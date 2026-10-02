@@ -1,2 +1,3 @@
-salut la planete
-test
+premier methode 
+deuxiemme méthode 
+troisiem methode
